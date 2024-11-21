@@ -1,0 +1,9 @@
+{
+    "name": "omarlopesino/drupal-recipe-wrapper",
+    "type": "drupal-recipe",
+    "version": "dev-main",
+    "description": "Wrapper of recipes",
+    "require": {
+        "drupal/webform": "^6.3"
+    }
+}
