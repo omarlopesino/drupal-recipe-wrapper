@@ -1,0 +1,11 @@
+# A human-readable name of the Recipe for listing in UIs.
+name: 'Webform'
+description: "Installs webform"
+# The type key is similar to the package key in module.info.yml. It
+# can be used by the UI to group Drupal recipes. Additionally,
+# the type 'Site' means that the Drupal recipe will be listed in
+# the installer.
+type: 'Webform'
+
+install:
+  - webform
