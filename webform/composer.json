@@ -1,5 +1,5 @@
 {
-    "name": "omarlopesino/drupal-recipe-wrapper",
+    "name": "omarlopesino/drupal-recipe-wrapper-webform",
     "type": "drupal-recipe",
     "version": "dev-main",
     "description": "Wrapper of recipes",
